@@ -1,0 +1,5 @@
+Step 1:Start
+Step 2:Take Radius from the User as r
+Step 3:Calculate Circle Area = 3.14 * r * r 
+Step 4:Print Circle Area
+Step 5:End

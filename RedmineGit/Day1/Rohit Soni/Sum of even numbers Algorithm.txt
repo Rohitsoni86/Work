@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Take input range from user upto which they want sum of even Numbers
+Step 3: initialize 2 variables i = 0 and sum = 0
+Step 4: initialize for loop as i = 0 to i = Range
+Step 5: if condition as if i % 2 == 0 then
+Step 6: Calculate Sum = Sum + i 
+Step 7: else i ++
+Step 8: then i = Range
+Step 9: print Sum 
+Step 10: End 

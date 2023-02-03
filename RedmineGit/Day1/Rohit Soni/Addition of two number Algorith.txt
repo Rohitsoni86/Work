@@ -1,0 +1,5 @@
+Step 1:Start
+Step 2:Take 2 Numbers from user Num_1 and Num_2
+Step 3:Calculate Sum = Num_1 + Num_2
+Step 4:Print Sum 
+Step 5:End
